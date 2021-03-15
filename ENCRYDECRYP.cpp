@@ -107,7 +107,7 @@ long int cd(long int a)
    }
 }
 
-//function to encrypt the message
+//FUNCTION TO ENCRYPT THE MESSAGE
 void encrypt()
 {
    long int pt, ct, key = e[0], k, len;
